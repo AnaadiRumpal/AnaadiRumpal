@@ -11,28 +11,17 @@ I am a passionate software developer with expertise in building impactful projec
 
 I specialize in software development, cloud computing, and IoT-based solutions. Below are some of the highlights from my portfolio.  
 
----
-
-## Highlighted Projects  
-
-- **[MessTime](https://anaadirampalportfolio-projects.onrender.com/mess-time)**  
-  A web app designed to enhance user experience with mess management.  
-  *(Currently transitioning maintenance responsibilities.)*
-
-- **SpotifyMe**  
-  A Flask app integrated with the Spotify API to provide detailed insights into music preferences and listening habits.
-
-- **Rotten Fruit Detector**  
-  An IoT project using machine learning and web camera integration to detect spoiled produce.  
 
 ---
 
 ## Skills  
-
+- **Certified Solution Architect**
 - **Cloud Computing:** AWS, Serverless Architectures  
-- **Web Development:** Flask, Tailwind CSS, JavaScript  
-- **IoT and Edge Computing**  
-- **API Integration:** Spotify API, RESTful APIs  
+- **Development:** Flask, Tailwind CSS, JavaScript, React, Node.js, HTML, Figma, Kotlin
+- **IoT**  
+- **Languages** Java, C, C++, Python, JavaScript
+- **API Integration:** Spotify API, RESTful APIs
+- **Other** Blender 3D, Unity 2D
 
 ---
 
